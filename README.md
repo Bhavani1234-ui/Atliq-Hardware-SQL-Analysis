@@ -30,5 +30,4 @@ This project solves **10 ad-hoc business request queries** for top management to
 ## 📂 File Structure
 * `atliq_hardware_sql_analysis.sql` — Contains all 10 verified, formatted, and optimized SQL queries with comments and structured approaches.
 
----
-*Created as part of data analytics portfolio preparation.*
+
